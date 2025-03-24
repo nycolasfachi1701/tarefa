@@ -1,5 +1,5 @@
 # Tarefa
-Bernardo Ferrari - 1130327 e Enzo Schultz - 1135046
+Bernardo Ferrari - 1130327 / Enzo Schultz - 1135046 / Nycolas Musskopf Fachi - 1134317
 
 API Flask com SQLite
 
